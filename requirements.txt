@@ -1,6 +1,13 @@
 torch
-transformers
-numpy
+transformers>=4.36.0
+datasets>=2.18.0
+sentence-transformers>=2.7.0
 pandas
+numpy
 scikit-learn
-matplotlib
+bertopic>=0.16.0
+hdbscan
+umap-learn
+openattack
+nltk
+tqdm
