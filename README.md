@@ -1,8 +1,6 @@
-Official Repository for "Leveraging Pre-Trained Language Models for Realistic Adversarial Attacks" published in "2025 IEEE International Conference on Big Data". 
-
 <div align="center">
 
-# 🧠 RealLLM-Attack: A Label-Aware Topic-Guided Adversarial Attack Framework (IEEE Big Data 2025)
+# Leveraging Pre-Trained Language Models for Realistic Adversarial Attacks \
 
 ---
 
@@ -29,3 +27,5 @@ Official Repository for "Leveraging Pre-Trained Language Models for Realistic Ad
 ---
 
 </div>
+
+Official Repository for "Leveraging Pre-Trained Language Models for Realistic Adversarial Attacks" published in "2025 IEEE International Conference on Big Data". 
