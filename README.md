@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### **Nuzaer Omar**<sup>1</sup>, Ademola Adesokan<sup>1</sup>, Sanjay Madria<sup>2</sup>  
+### **Nuzaer Omar**<sup>1</sup>, Ademola Adesokan<sup>2</sup>, Sanjay Madria<sup>1</sup>  
 
 <sup>1</sup>Missouri University of Science & Technology  
 <br>
