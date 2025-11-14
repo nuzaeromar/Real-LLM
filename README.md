@@ -5,10 +5,6 @@
 ---
 
 <p>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=for-the-badge&logo=arxiv" />
-  </a>
-
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   </a>
