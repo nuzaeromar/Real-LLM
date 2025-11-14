@@ -18,7 +18,7 @@
 
 <sup>1</sup>Missouri University of Science & Technology  
 <br>
-<sup>2</sup>Collaborating Institution  
+<sup>2</sup>University of Central Arkansas  
 
 ---
 
