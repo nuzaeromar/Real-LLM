@@ -44,11 +44,13 @@ The repository includes attack implementations for the following models:
 - **ALBERT**
 - **Large BERT variants**  
 
-Each model has its own directory containing:
+Each model has its own implementation containing:
 - Attack scripts
-- Configuration files
+- Configuration details
 - Evaluation utilities
 
+- The init.py either needs to be replaced inside the attacker folder of OpenAttack or
+- A new attacker needs to included in the OpenAttack framework.
 ---
 
 ## 🚀 Getting Started
@@ -71,5 +73,10 @@ Example (model-specific scripts may vary):
 ```bash
 python realllm_test.py
 ```
+
+##👤 Author
+Nuzaer Omar  
+PhD Candidate, Computer Science  
+Missouri University of Science & Technology
 
 
