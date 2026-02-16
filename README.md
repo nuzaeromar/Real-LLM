@@ -74,7 +74,7 @@ Example (model-specific scripts may vary):
 python realllm_test.py
 ```
 
-##👤 Author
+## 👤 Author
 Nuzaer Omar  
 PhD Candidate, Computer Science  
 Missouri University of Science & Technology
