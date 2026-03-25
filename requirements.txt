@@ -11,3 +11,4 @@ umap-learn
 openattack
 nltk
 tqdm
+spacy
