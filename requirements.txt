@@ -12,3 +12,4 @@ openattack
 nltk
 tqdm
 spacy
+python-Levenshtein
