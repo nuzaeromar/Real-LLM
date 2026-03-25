@@ -13,3 +13,4 @@ nltk
 tqdm
 spacy
 python-Levenshtein
+setuptools==75.8.0
